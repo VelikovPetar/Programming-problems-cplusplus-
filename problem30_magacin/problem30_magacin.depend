@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1470874202 source:/home/petar/Documents/Programming/Competitive C++/problem30_magacin/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
