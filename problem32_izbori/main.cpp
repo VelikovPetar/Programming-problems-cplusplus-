@@ -9,11 +9,11 @@ int main()
     cin >> N;
     int fav;
     cin >> fav;
-    int votes[N - 1];
     priority_queue<int> q;
     for(int i = 0; i < N - 1; ++i) {
-        cin >> votes[i];
-        q.push(votes[i]);
+        int vote;
+        cin >> vote;
+        q.push(vote);
     }
     int ans = 0;
     while(!q.empty() && fav <= q.top()) {
