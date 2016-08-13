@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1471090934 source:/home/petar/Documents/Programming/Competitive C++/atcoder_43_2/main.cpp
+	<iostream>
+	<stack>
+
