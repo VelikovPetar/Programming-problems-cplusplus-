@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1471878161 source:/home/petar/Documents/Programming/Competitive C++/codeforces_edu_16_problem3/main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+	<string.h>
+

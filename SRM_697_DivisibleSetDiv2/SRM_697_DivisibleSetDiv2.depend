@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471520911 source:/home/petar/Documents/Programming/Competitive C++/SRM_697_DivisibleSetDiv2/main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+

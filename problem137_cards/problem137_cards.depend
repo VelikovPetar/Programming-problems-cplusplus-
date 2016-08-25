@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472120727 source:/home/petar/Documents/Programming/Competitive C++/problem137_cards/main.cpp
+	<iostream>
+	<queue>
+
